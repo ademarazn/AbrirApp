@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abrir Apps</string>
+    <string name="maps">Maps</string>
+    <string name="chrome">Google Chrome</string>
+    <string name="calculadora">Calculadora</string>
+
+</resources>
